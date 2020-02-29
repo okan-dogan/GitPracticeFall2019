@@ -5,6 +5,7 @@ public class StringPractice {
     public static void main(String[] args) {
         System.out.println("!!Hello World!!");
         System.out.println("My first changes on this class");
+        System.out.println("My second change");
 
 
     }
