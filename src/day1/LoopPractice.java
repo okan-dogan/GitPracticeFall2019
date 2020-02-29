@@ -10,6 +10,8 @@ public class LoopPractice {
             System.out.print(", ");
             }
         }
+        System.out.println();
+        System.out.println("#####");
 
     }
 }
